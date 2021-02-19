@@ -1,0 +1,15 @@
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.csprojAssemblyReference.cache
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.frmMain.resources
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.Properties.Resources.resources
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.csproj.GenerateResource.cache
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.csproj.CoreCompileInputs.cache
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\appTcpipClient.exe.config
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\appTcpipClient.exe
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\appTcpipClient.pdb
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\MetroFramework.dll
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\MetroFramework.Fonts.dll
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\NLog.dll
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\bin\Debug\NLog.xml
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.csproj.CopyComplete
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.exe
+F:\test.EXAMPLE\appTcpipClient\appTcpipClient\obj\Debug\appTcpipClient.pdb

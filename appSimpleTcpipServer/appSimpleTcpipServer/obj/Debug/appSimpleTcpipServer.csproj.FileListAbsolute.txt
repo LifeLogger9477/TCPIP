@@ -1,0 +1,17 @@
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\appSimpleTcpipServer.exe.config
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\appSimpleTcpipServer.exe
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\appSimpleTcpipServer.pdb
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\MetroFramework.dll
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\MetroFramework.Fonts.dll
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\SimpleTCP.dll
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.csprojAssemblyReference.cache
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.frmMain.resources
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.Properties.Resources.resources
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.csproj.GenerateResource.cache
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.csproj.CoreCompileInputs.cache
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.csproj.CopyComplete
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.exe
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\obj\Debug\appSimpleTcpipServer.pdb
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\NLog.dll
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\NLog.xml
+F:\test.EXAMPLE\appSimpleTcpipServer\appSimpleTcpipServer\bin\Debug\SimpleTcp.xml
